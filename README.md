@@ -6,8 +6,8 @@
 
 Esse repositório guarda o código para a construção de uma API REST. Foi cumprido 3 de 5 itens da lista a seguir:
 
-- [ ] Inserir pessoas;
-- [ ] Inserir eventos, eventos precisam ter participantes (pessoas) e um horário;
+- [x] Inserir pessoas;
+- [x] Inserir eventos, eventos precisam ter participantes (pessoas) e um horário;
 - [ ] O horário deve ter o offset do time zone e usar a estrutura adequada do PostgreSQL;
 - [x] Deletar eventos e pessoas;
 - [ ] Editar eventos e pessoas;
