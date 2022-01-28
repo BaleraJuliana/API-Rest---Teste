@@ -2,7 +2,7 @@
 > **Author:** Juliana Marino Balera :busts_in_silhouette: </br>
 > **Year:** 2022 :date:
 
-# API REST - Teste
+# API REST - Desafio 2RP Net
 
 Esse repositório guarda o código para a construção de uma API REST. Foi cumprido 3 de 5 itens da lista a seguir:
 
